@@ -57,8 +57,9 @@ const ramos = [
   { codigo: "580521", nombre: "LOGISTICA ", semestre: 10, creditos: 3, prerrequisitos: ["580421"] },
   { codigo: "104", nombre: "ELECTIVA 4", semestre: 10, creditos: 3, prerrequisitos: [] },
   { codigo: "105", nombre: "ELECTIVA 5", semestre: 10, creditos: 3, prerrequisitos: [] },
+  { codigo: "105", nombre: "DIRECCION Y CONTROL DE PROYECTOS 5", semestre: 10, creditos: 3, prerrequisitos: [] },
   { codigo: "580450", nombre: "PRACTICA PROFESIONAL", semestre: 11, creditos: 0, prerrequisitos: [] },
-  { codigo: "580699", nombre: "MEMORIA DE TITULO (TERMINAL HABILITANTE", semestre: 10, creditos: 18, prerrequisitos: [] },
+  { codigo: "580699", nombre: "MEMORIA DE TITULO (TERMINAL HABILITANTE", semestre: 11, creditos: 18, prerrequisitos: [] },
 ];
 
 const malla = document.getElementById("malla");
